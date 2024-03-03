@@ -37,7 +37,7 @@ body{
     bottom: 0;
     height: 3px;
     width: 15%;
-    background-color:rgb(56, 10, 123);
+    background-color:#2a45b1;
     
 }
 
@@ -47,9 +47,15 @@ body{
     justify-content: center;
 }
 
-form .user-details .input-box{
-    
-    width: calc(50%);
+
+.container form .user-details .input-box{
+    border-color: #2a45b1;
+     width: calc(50%);
+}
+
+form .user-details .input-box .obs{
+font-size: 10px;
+color: rgb(248, 1, 1);
 }
 
 .user-details .input-box input{
