@@ -43,14 +43,12 @@ body{
 
 .container form .user-details{
     display:inline ;
-
     justify-content: center;
 }
 
-
-.container form .user-details .input-box{
-    border-color: #2a45b1;
-     width: calc(50%);
+form .user-details .input-box{
+    border-color: ;
+    width: calc(50%);
 }
 
 form .user-details .input-box .obs{
